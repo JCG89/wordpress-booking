@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:6ecc61e24b0feaf0875874f23a73a6e9
+SUMMARY:jc Services - 16 Juin 2021 09:00
+DTSTART;TZID=Europe/Paris:20210616T090000
+DTEND;TZID=Europe/Paris:20210616T093000
+DESCRIPTION:Salon name: jc Services \n\nAdresse du salon:  \n\nSalon phone:  \n\nSalon email: christophegomis89@gmail.com \n\nServices réservés:\nShampoin: 09:00 ➝ 09:00 - Hidalgo\nCoiffure homme: 09:00 ➝ 09:00 - Hidalgo\n\nNotes de réservation:\nAucun\n\nStatut de la réservation: Confirmé
+END:VEVENT
+END:VCALENDAR
